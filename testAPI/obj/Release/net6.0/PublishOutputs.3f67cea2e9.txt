@@ -1,0 +1,11 @@
+C:\Users\pauls\source\repos\testAPI\testAPI\obj\Release\net6.0\PubTmp\Out\testAPI.exe
+C:\Users\pauls\source\repos\testAPI\testAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\pauls\source\repos\testAPI\testAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\pauls\source\repos\testAPI\testAPI\obj\Release\net6.0\PubTmp\Out\testAPI.dll
+C:\Users\pauls\source\repos\testAPI\testAPI\obj\Release\net6.0\PubTmp\Out\testAPI.deps.json
+C:\Users\pauls\source\repos\testAPI\testAPI\obj\Release\net6.0\PubTmp\Out\testAPI.runtimeconfig.json
+C:\Users\pauls\source\repos\testAPI\testAPI\obj\Release\net6.0\PubTmp\Out\testAPI.pdb
+C:\Users\pauls\source\repos\testAPI\testAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\pauls\source\repos\testAPI\testAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pauls\source\repos\testAPI\testAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pauls\source\repos\testAPI\testAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
