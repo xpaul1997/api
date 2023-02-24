@@ -4,8 +4,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\pauls\Desktop\api</_PublishTargetUrl>
-    <History>True|2023-02-24T22:13:22.6333805Z;True|2023-02-24T23:11:32.9948983+01:00;</History>
+    <_PublishTargetUrl>C:\Users\pauls\Desktop\publish</_PublishTargetUrl>
+    <History>True|2023-02-24T22:51:03.7679380Z;True|2023-02-24T23:48:05.2420992+01:00;True|2023-02-24T23:13:22.6333805+01:00;True|2023-02-24T23:11:32.9948983+01:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
