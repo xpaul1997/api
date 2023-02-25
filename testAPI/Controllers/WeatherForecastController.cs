@@ -62,13 +62,5 @@ namespace testAPI.Controllers
 
             return JsonSerializer.Deserialize<object>(responseBody); ;
         }
-
-        [HttpGet("ellie", Name = "ellie")]
-        public string ellie()
-        {
-            return "Ellie ist toll";
-        }
-
-
     }
 }
